@@ -4,7 +4,7 @@
 
 Projeto constrído do evento Next Level Week da Rocketseat
 
-[🔗 Clique aqui para acessar](https://andresilveira1.github.io/NLW-eSports-Explorer/)
+[🔗 Clique aqui para acessar](https://andresilveira1.github.io/nlw-esports-explorer/)
 
 ## 🛠️ Tecnologias
 
